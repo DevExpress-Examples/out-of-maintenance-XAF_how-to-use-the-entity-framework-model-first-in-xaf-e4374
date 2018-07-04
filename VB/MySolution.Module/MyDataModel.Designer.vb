@@ -1,4 +1,4 @@
-﻿' T4 code generation is enabled for model 't:\ModelFirstEntityFrameworkExample\MySolutionVB\MySolution.Module\MyDataModel.edmx'. 
+﻿' T4 code generation is enabled for model 't:\MySolution\MySolution.Module\MyDataModel.edmx'. 
 ' To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 ' property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 ' is open in the designer.
