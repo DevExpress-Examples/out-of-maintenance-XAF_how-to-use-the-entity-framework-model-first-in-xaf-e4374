@@ -6,7 +6,7 @@
 # OBSOLETE - Use the Entity Framework Model First in XAF
 
 
-<p><strong>This solution is obsolete. Refer to the</strong> <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3444"><u>How to: Use the Entity Framework Model First in XAF</u></a> <strong>article for a recommended solution.</strong>
+<p><strong>This solution is obsolete. Refer to the</strong> <a href="https://docs.devexpress.com/eXpressAppFramework/113444/business-model-design-orm/business-model-design-with-entity-framework-6/how-to-use-the-entity-framework-6-model-first-in-xaf?v=21.2"><u>How to: Use the Entity Framework Model First in XAF</u></a> <strong>article for a recommended solution.</strong>
 
 <br/>
 
